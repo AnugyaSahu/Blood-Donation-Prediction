@@ -10,3 +10,5 @@ The dataset is from a mobile blood donation vehicle in Taiwan. The Blood Transfu
 - Use of TPOT, it will automatically explore hundreds of possible data transforming and choosing a suitable models to find the best one for our dataset. The outcome of this search will be a scikit-learn pipeline.
 - Tackling an unbalanced target in medical data science.
 - AUC score: 0.7890
+
+[2021]
